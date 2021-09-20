@@ -12,7 +12,7 @@ var myTotal = myNumber * myOtherNumber;
 
 // Question 5
 let myName = "Lance";
-let myCombo = myNumber + myOtherNumber;
+let myCombo = num2str(myNumber) + num2str(myOtherNumber);
 
 // Question 6
 var myOtherCombo = myNumber + myOtherNumber;
