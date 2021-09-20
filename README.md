@@ -4,4 +4,4 @@ You can view the deployed version of the application here: https://6ftdotexe.git
 
 To view the Github repository as it is progressivelly updated check it out here: https://github.com/6ftdotexe/Page_INF651_assignment1
 
-![Deployed Version Screenshot](./assets/Screenshot)
+![Deployed Version Screenshot](./assets/Screenshot.PNG)
