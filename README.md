@@ -1,4 +1,4 @@
-This is a Responsive Portfolio with links to my socials as well as my current work and repositories 
+This is my Assignment 3 for INF651
 
 You can view the deployed version of the application here: https://6ftdotexe.github.io/Page_INF651_assignment1/
 
